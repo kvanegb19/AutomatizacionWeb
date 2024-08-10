@@ -15,7 +15,8 @@ Feature: Product - Store
     And vuelvo a validar el calculo de precios en el carrito
     Examples:
       | usuario                       | password  |  categoria   |
-
-      | guevara@hotmail.com   | 11111111  |  CLOTHES     |
       | guevara16_vanessa@hotmail.com | Saneva90* |  CLOTHES     |
+      | guevara@hotmail.com   | 11111111  |  CLOTHES     |
+
       | guevara16_vanessa@hotmail.com | Saneva90* |  autos       |
+
